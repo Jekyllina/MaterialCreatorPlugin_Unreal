@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MaterialCreatorPlugin-0006.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Diana\Documents\GitHub\lezionigeotech\Intermediate\Build\Win64\LezioneGeotechEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\Diana\Documents\GitHub\lezionigeotech\Plugins\MaterialCreatorPlugin\Intermediate\Build\Win64\UE4Editor\Development\MaterialCreatorPlugin\MaterialCreatorPlugin.cpp.obj"
+"C:\Users\Diana\Documents\GitHub\lezionigeotech\Plugins\MaterialCreatorPlugin\Intermediate\Build\Win64\UE4Editor\Development\MaterialCreatorPlugin\Default.rc2.res"
+/OUT:"C:\Users\Diana\Documents\GitHub\lezionigeotech\Plugins\MaterialCreatorPlugin\Intermediate\Build\Win64\UE4Editor\Development\MaterialCreatorPlugin\UE4Editor-MaterialCreatorPlugin-0006.lib"
+/INCLUDE:IMPLEMENT_MODULE_MaterialCreatorPlugin

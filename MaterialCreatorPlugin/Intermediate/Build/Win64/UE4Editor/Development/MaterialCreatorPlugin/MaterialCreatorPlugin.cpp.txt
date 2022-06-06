@@ -1,0 +1,18 @@
+C:\Users\Diana\Documents\GitHub\lezionigeotech\Plugins\MaterialCreatorPlugin\Intermediate\Build\Win64\UE4Editor\Development\MaterialCreatorPlugin\Definitions.MaterialCreatorPlugin.h
+C:\Users\Diana\Documents\GitHub\lezionigeotech\Plugins\MaterialCreatorPlugin\Source\MaterialCreatorPlugin\Public\MaterialCreatorPlugin.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Factories/MaterialFactoryNew.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\MaterialFactoryNew.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionVectorParameter.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionVectorParameter.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\ImageUtils.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionConstant.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionConstant.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter2D.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionTextureSampleParameter2D.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMultiply.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialExpressionMultiply.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
