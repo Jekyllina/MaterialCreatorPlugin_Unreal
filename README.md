@@ -14,6 +14,8 @@ The parameters that you can decide for the material are:
 - Roughness value
 - Metallic value
 
+The parameters names are not case sensitive.
+
 txt example:
 ![materials_txt](https://user-images.githubusercontent.com/48209077/172207780-008f435f-774b-4eab-89ee-8393edc02c32.jpg)
 
